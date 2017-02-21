@@ -1,0 +1,17 @@
+{
+    "word_count_mixed": "10",
+    "word_count_morph": "10",
+
+    "root_wordlist_path": "wordlists",
+
+    "wordlist_a_path": "wordlists/descriptive",
+    "wordlist_b_path": "wordlists/nouns",
+
+    "print_to_console": true,
+    "save_to_disk": true,
+
+    "remove": [",", "(", ")", ".", "[", "]", "'", "-"],
+
+    "output_path_mixed": "output/mixed.txt",
+    "output_path_morph": "output/morph.txt"
+}
