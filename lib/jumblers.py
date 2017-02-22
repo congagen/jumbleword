@@ -5,8 +5,9 @@ import random
 
 def get_morphword(wordlist_a, wordlist_b, word_count):
     result = []
+    wrdct = int(word_count*0.5)
 
-    for i in range(word_count):
+    for i in range(wrdct):
         word_a = random.choice(wordlist_a)
         word_b = random.choice(wordlist_b)
 
