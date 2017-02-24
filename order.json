@@ -1,6 +1,6 @@
 {
-    "word_count_mixed": "30",
-    "word_count_morph": "30",
+    "word_count_mixed": "5",
+    "word_count_morph": "0",
 
     "root_wordlist_path": "wordlists/misc",
 
@@ -12,8 +12,8 @@
 
     "remove": [",", "(", ")", ".", "[", "]", "'", "-"],
 
-    "mode": "0",
-    "interval": "0.01",
+    "mode": "1",
+    "interval": "0.001",
 
     "output_path_mixed": "output/mixed.txt",
     "output_path_morph": "output/morph.txt"

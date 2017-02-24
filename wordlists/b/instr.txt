@@ -1,0 +1,332 @@
+Acme siren
+Afoxé
+Agogô
+Agung
+Agung-a-tamlang
+Alarm
+Alfaia
+AlligatorDrum
+Angklung
+Anvil
+Apito
+Ashiko
+Atabaque
+Babendil
+Bak
+Balafon
+Bamboula
+Bara
+Bass
+Batá
+Beatboxing
+Bedug
+Bell
+Bell plate
+Bell tree
+Bendir
+Berimbau
+Bianzhong
+Binzasara
+Bo
+Bock-a-da-bock
+Bodhrán
+Body percussion
+Bombo criollo
+Bonang
+Bones (instrument)
+Bongo drum
+Boobam
+Boomwhacker
+Bougarabou
+Bubon
+Buk
+Cabasa
+Cajón
+CajónDeRumba
+Calung
+Carimbo
+CandombeDrum
+Cannon
+Cantaro
+Carillon
+Castanets
+Caxirola
+Caxixi
+Celesta
+Chácaras
+Chenda
+Chime bar
+Chime (bell instrument)
+China cymbal
+Cimbalom
+Clapper
+Clapping
+Clap stick
+Clash cymbals
+Claves
+Clavichord
+Clay drum
+Cocktail drum
+Conga
+Cowbell
+Crotale
+Crystallophone
+Cuíca
+Cup chime
+Cymbal
+Dabakan
+Daf
+Damaru
+Damphu
+Đàn tam thập lục
+Davul
+Daxophone
+Dayereh
+Den-den daiko
+Derkach
+Dhaa
+Dhimay
+Dholak
+Dhol
+Dholak
+Dimdi
+Djembe
+Dohol
+Dollu
+Đông Sơn drums
+Drum stick
+Dunun
+Egg shaker
+Ekwe
+Electronic drum
+Esterilla
+Ferrinho
+Fiddlesticks
+Finger snapping
+Flexatone
+Flower drum
+Fontomfrom
+Found object
+Frame drum
+Friction drum
+Galgo
+Gandingan
+Ganzá
+Gbedu
+Gendèr
+Geophone
+Ghatam
+Glasschord
+Glass harmonica
+Glass harp
+Glockenspiel
+Goblet drum
+Goema
+Gong
+Gong bass drum
+Gonguê
+Gubguba
+Gudugudu
+Güira
+Güiro
+Hammered dulcimer
+Hand bell
+Handchime
+Hand-repique
+Hang
+Hi-hat
+Hosho
+Huiringua
+Hydraulophone
+Hyoshigi
+Igba
+Ikembe
+Ikoro
+Ilimba
+Jam block
+Janggu / Janggo / Changgo
+Jawbone
+Jew's harp
+Jhallari
+Jingle
+Junjung
+Kakko
+Kanjira
+Karyenda
+Kebero
+Kecer
+Kemanak
+Kempyang
+Ketuk
+Kendang
+Kenong
+Kepyak
+Khim
+Khol
+Kirikoketa
+Kiringi
+Kisanji
+Klong khaek
+Klong yao
+Kpanlogo
+Kulintang
+Kundu
+Kus
+Lambeg
+Lithophone
+Lujon
+Lummi
+Madal
+Maddale
+Madhalam
+Maktoum
+Makuta
+Malimbe
+Mangey
+Maraca
+Maram
+Marfa
+Marimba
+Marímbula
+Mark tree
+Mbira
+Metallophone
+MonkeyStick
+Mridangam
+Musical saw
+Muyu
+Nagara
+Naqara
+Naqareh
+Naqus
+NgomaDrum
+NorthDrum
+OceanDrum
+Octoban
+Omel
+Onavillu
+Ōtsuzumi
+PadayaniThappu
+Pahu
+Pahū pounamu
+Paiban
+PailaCriolla
+Pakhavaj
+Pambai
+Pandeiro
+PanderoJarocho
+Pantalon
+ParsifalBell
+Pat waing
+Pellet drum
+Piano
+Pixiphone
+PracticePad
+Plasmaphone
+Pyrophone
+QuadrangularisReversum
+Quintephone
+Rainstick
+Rakatak
+Ranat ek
+Ranat ek lek
+Ranat thum
+Ranat thum lek
+Ratchet
+Rattle
+Ravanne
+Repique
+Ring of bells
+Ring-repique
+Ringing rocks
+Riq
+Rock gong
+Rototom
+Sabar
+Sakara
+Salterio
+Sambal
+Samphor
+Sand blocks
+Santoor
+Santur
+Saron
+Semantron
+Shekere
+Shime-daiko
+Shishi-odoshi
+Shōko
+Sikulu
+Silex Piano
+Singing bowl
+Siren (alarm)
+Skrabalai
+Skull
+Sleigh bells
+Slenthem
+Slide whistle
+Slit drum
+Snare drum
+Song bells
+Sounding stone
+Spoon
+SteelPan
+StompBox
+StoneMarimba
+Suikinkutsu
+Surdo
+SuspendedCymbal
+Tabla
+TablaTarang
+Taiko
+Talempong
+Talking drum
+Tambora
+Tamborim
+TamboritaCalentana
+Tambour
+Tambourine
+Tan-tan
+Tap shoe
+Taphon
+TarDrum
+Tassa
+TaxiHorn
+Tbilat
+TempleBlock
+Thappu
+Thavil
+ThunderSheet
+Timbal
+Timbales
+Timpani
+Tingsha
+Tonbak
+Triangle
+Triccaballacca
+Tsuzumi
+Tsymbaly
+TubularBells
+Tumba
+Turntable
+Tumdak
+TurkishCrescent
+Txalaparta
+Udu
+Vibraphone
+Vibraslap
+Washboard
+Whip
+Whistle
+WindChime
+WindMachine
+WobbleBoard
+WoodBlock
+Xylophone
+Xylorimba
+Yanggeum
+Yangqin
+Yuka
+Zabumba
+Zatula
+Zill
