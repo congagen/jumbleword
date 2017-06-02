@@ -1,2 +1,6 @@
-# jumbleword
-word jumbler
+### Usage:
+
+```sh
+$ python gen.py order.json
+
+```
