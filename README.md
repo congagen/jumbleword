@@ -1,6 +1,6 @@
-### Usage:
+### Examples:
 
 ```sh
-$ python gen.py order.json
+$ python3 -B app.py examples/all.json
 
 ```
