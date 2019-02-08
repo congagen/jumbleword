@@ -1,13 +1,34 @@
 import os
 import sys
+import difflib
 import json
 import random
 
 
-def write_text(output_path="", text=""):
+def diff_match(target_string, comp_string_list, composite=False):
+    best_match_val = 0
+    best_match_string = ""
+    m_list = []
+    
+    for s in comp_string_list:
+        di = difflib.SequenceMatcher(None, target_string, str(s)).ratio()
+        m_list.append(di)
+        
+        if di > best_match_val:
+            best_match_val = di
+            best_match_string = s
+
+    if composite:
+        return sum(m_list)/len(m_list), best_match_string
+    else:
+        return best_match_val, best_match_string
+
+
+def write_file(output_path="", text=""):
     text_file = open(output_path, "w")
     text_file.write(text)
     text_file.close()
+
 
 def wash_wlist(wordlist, replace_list, title=True, upper=False):
     clensed_list = []

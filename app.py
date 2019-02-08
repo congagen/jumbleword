@@ -10,8 +10,6 @@ from lib.analysis import sentiment
 
 # ------------------------------------------------------------------------------
 
-
-
 def main(args):
     response = {}
 
